@@ -1,7 +1,7 @@
 # OS-setup-from-scratch
 Detailed guide to setup Operating System and essential packages for Data Scientist starting from UEFI-BIOS splash screen
 
-# Contents in the order of setup :
+## Contents in the order of setup :
 
 0. UEFI BIOS EZ and Advanced Modes Usage
 1. Bootable USB Drive Preparation
