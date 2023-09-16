@@ -1,5 +1,5 @@
 # OS Setup from scratch : A Complete Clean Installation Guide 
-Detailed guide to setup Operating System and essential packages for Data Scientist starting from UEFI-BIOS splash screen
+Detailed guide to setup Operating System and essential packages for Data Scientist starting from UEFI-BIOS splash screen 
 
 ## Contents in the order of setup :
 
