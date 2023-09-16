@@ -12,7 +12,7 @@ Detailed guide to setup Operating System and essential packages for Data Scienti
 6. Google Chrome
 7. Anydesk 6.2
 8. VSCode
-9. Python 3 extension for VSCode
+9. Python 3 extension for VSCode 
 10. Anaconda
 11. Cuda Cudnn
 12. ROS2 (refer github.com/AmishaSomaiya/ROS2-Humble-Setup-On-Ubuntu2204.git) 
