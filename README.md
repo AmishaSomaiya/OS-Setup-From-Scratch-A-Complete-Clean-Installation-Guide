@@ -33,4 +33,4 @@ factory settings -> reset drive
 3. is of file system of any format other than FAT32 : eg: exFAT 
 
 
-
+stay tuned..
